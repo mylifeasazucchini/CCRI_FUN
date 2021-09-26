@@ -1,4 +1,4 @@
-## Instance Segmentation for Histology Images from Microscope
+## Finetuining of Mask RCNN for Instance-wise Nucleus Segmentation of Histology Images
 
 ### Environment: 
 #### conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch
