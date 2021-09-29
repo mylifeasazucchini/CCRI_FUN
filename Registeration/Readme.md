@@ -6,7 +6,7 @@ Good_Tile.png = Best candidate tile corresponding to the IMC image (this will be
 
 IMC.png = IMC Image (the image which will be found and will be fed to the reg_help as target_img)
 
-Registered_CZI.png = Result of registeration between the above two register_main(source_img, target_img, infer = 1)
+Registered_CZI.png = Result of registeration between the above two 
 
 ## To replicate the code for your images:
 
